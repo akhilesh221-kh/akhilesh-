@@ -37,3 +37,4 @@ else:
     for i in range(1, num + 1):   # loop from 1 to num
         fact = fact * i
     print("Factorial of", num, "is:", fact)
+print("Test commit")
